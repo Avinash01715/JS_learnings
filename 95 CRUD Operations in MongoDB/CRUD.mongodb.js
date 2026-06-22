@@ -79,14 +79,14 @@ db.createCollection("learnings")
 
 //UPDATE
 
-db.learnings.updateOne({price: 115},{$set: {price: 101}})
-db.learnings.updateMany({price: 115},{$set: {price: 101}})
+// db.learnings.updateOne({price: 115},{$set: {price: 101}})
+// db.learnings.updateMany({price: 115},{$set: {price: 101}})
 
 
-// DELETE
+// // DELETE
 
-db.learnings.deleteOne({price: 100})
-db.learnings.deleteMany({price: 100})
+// db.learnings.deleteOne({price: 100})
+// db.learnings.deleteMany({price: 100})
 
 
 
