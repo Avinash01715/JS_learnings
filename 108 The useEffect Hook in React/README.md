@@ -1,0 +1,1 @@
+> The useEffect hook cases is in Navbar.jsx component
